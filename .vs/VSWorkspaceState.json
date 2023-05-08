@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BuberBreakfast",
     "\\BuberBreakfast.Contracts",
-    "\\BuberBreakfast.Contracts\\Breakfast"
+    "\\BuberBreakfast.Contracts\\Breakfast",
+    "\\BuberBreakfast\\Controllers",
+    "\\BuberBreakfast\\Models"
   ],
-  "SelectedNode": "\\BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastReqeust.cs",
+  "SelectedNode": "\\BuberBreakfast\\Controllers\\BreakfastsController.cs",
   "PreviewInSolutionExplorer": false
 }

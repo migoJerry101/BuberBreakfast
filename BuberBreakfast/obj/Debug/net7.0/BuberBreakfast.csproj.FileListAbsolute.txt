@@ -7,9 +7,6 @@ C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.pdb
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.csproj.AssemblyReference.cache
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.AssemblyInfoInputs.cache
@@ -31,3 +28,6 @@ C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.pdb
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.genruntimeconfig.cache
 C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\ref\BuberBreakfast.dll
+C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
+C:\Users\ASUS\Documents\C# projects\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\ErrorOr.dll
